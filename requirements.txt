@@ -1,0 +1,9 @@
+termcolor
+pathlib
+joblib
+scikit-learn
+bigquery
+pyjanitor
+math
+tensorflow
+dotenv
